@@ -56,9 +56,9 @@ namespace Buoi3
             }
             else
             {
-                canha = ca;
-                canhb = cb;
-                canhc = cc;
+                this.ca = ca;
+                this.cb = cb;
+                this.cc = cc;
             }
         }
         public double ChuVi()
